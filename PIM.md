@@ -36,8 +36,6 @@ date: "Diciembre 2025"
   - [Conclusiones](#conclusiones)
   - [Consideraciones éticas](#consideraciones-éticas)
   - [Bibliografía](#bibliografía)
-  - [Diagrama de Gantt del Trimestre](#diagrama-de-gantt-del-trimestre)
-  - [Comentario del diagrama de Gantt](#comentario-del-diagrama-de-gantt)
 
 ---
 
@@ -253,21 +251,3 @@ Todas las pruebas realizadas en este proyecto se han llevado a cabo en un entorn
 
 ---
 
-## Diagrama de Gantt del Trimestre
-![Diagrama1](./imagenes/diagrama1.png)
-![Diagrama2](./imagenes/diagrama2.png)
-![Diagrama3](./imagenes/diagrama3.png)
-![Diagrama4](./imagenes/diagrama4.png)
-
-
-## Comentario del diagrama de Gantt
-- La primera tarea que hice fué crear una máquina virtual de Kali Linux, me la descargué de la página oficial de Kali y la inicié con VirtualBox.
-La inicié el 10 de octubre y la terminé el 17 de octubre.
-
-- La segunda tarea fué descargar y probar todas las herramientas de Kali Linux, que fué básicamente actualizar todo y probar algún comando para comprobar que todo estuviera bien. Fué un par de sesiones de trastear y probar algunos comandos.
-Lo hice entre el 17 y el 30 de octubre.
-
-- La tercera tarea es aprender a utilizar las herramientas Metaexploit y Nmap, lo llevo haciendo desde entonces estudiando desde videos de internet, foros, cursos online y en páginas como TryHackMe y IBM.
-LLevo desde el 6 de noviembre y creo que todavia me queda bastante aunque ya haya avanzado bastante en las bases y conceptos básicos.
-
-- La cuarta tarea es crear este archivo en markdown para la primera evaluación
